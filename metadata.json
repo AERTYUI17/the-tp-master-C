@@ -1,0 +1,6 @@
+{
+  "name": "C Master: Duolingo Style",
+  "description": "A gamified C programming quiz app covering basics, functions, pointers, files, and records with analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
